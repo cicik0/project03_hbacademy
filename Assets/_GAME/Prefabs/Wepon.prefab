@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7226793141136683415
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3456868042876468527}
+  - component: {fileID: 4766641799184609388}
+  m_Layer: 0
+  m_Name: Wepon
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3456868042876468527
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7226793141136683415}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.050729107, y: -0.13086036, z: -0.67709386, w: 0.72238916}
+  m_LocalPosition: {x: -0.28009102, y: 0.02554662, z: -0.074529946}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: -5.965, y: -15.02, z: -85.505}
+--- !u!114 &4766641799184609388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7226793141136683415}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe015b9d49f2b3e489cb480262c9163a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  character: {fileID: 0}
+  weponType: 0
+  coin: 0
+  throwSpeed: 0
+  wpPrefab: {fileID: 0}
+  wplistSO: {fileID: 11400000, guid: 13627b6e5eb525f4589d2f80e5d198e2, type: 2}
+  bulletListSO: {fileID: 11400000, guid: f715abc5496e026459e8fca5a7567285, type: 2}

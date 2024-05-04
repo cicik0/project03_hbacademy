@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91ee06312b125fb4d89eb72f4eef887a, type: 3}
+  m_Name: ButtonPlantSkin
+  m_EditorClassIdentifier: 
+  listPants:
+  - plantIcon: {fileID: 21300000, guid: 1f7e9eb236c8768498ad5d8078d2533d, type: 3}
+    pantType: 1
+    pantMaterial: {fileID: 2100000, guid: c4d58e8e14ce0bf4291cfcc43ad32a16, type: 2}
+  - plantIcon: {fileID: 21300000, guid: 3ddbc9e0f3f883a46b1ba9635f87c222, type: 3}
+    pantType: 2
+    pantMaterial: {fileID: 2100000, guid: a683b642f58fcfe48aa55a56b1ec0662, type: 2}
+  - plantIcon: {fileID: 21300000, guid: 2652851e5f7772041add8ebe7d548f2b, type: 3}
+    pantType: 3
+    pantMaterial: {fileID: 2100000, guid: 2fa99c37645b742458370bb1e4b6c64c, type: 2}
+  - plantIcon: {fileID: 21300000, guid: ae9d58ecee0e3f848b8fedb3f2c67648, type: 3}
+    pantType: 4
+    pantMaterial: {fileID: 2100000, guid: 97e5a37837488ed4690f3557cf1eba67, type: 2}
+  - plantIcon: {fileID: 21300000, guid: 5433d4b044040c44487399b59f52e2b4, type: 3}
+    pantType: 5
+    pantMaterial: {fileID: 2100000, guid: 2608e4c9a1fc6e24c98651020d726c62, type: 2}
+  - plantIcon: {fileID: 21300000, guid: ea8161e4ed231be438fe9e968bc8752c, type: 3}
+    pantType: 6
+    pantMaterial: {fileID: 2100000, guid: 049f72c4dafe4824397eedbda1542ba0, type: 2}
+  - plantIcon: {fileID: 21300000, guid: 4d6b3cb74098a8640b03cd004d1dcdbb, type: 3}
+    pantType: 7
+    pantMaterial: {fileID: 2100000, guid: b223ff87873f90646a61b4b7d2d218ec, type: 2}
+  - plantIcon: {fileID: 21300000, guid: a39a74b87842b704ab4bc6eec7e6c287, type: 3}
+    pantType: 8
+    pantMaterial: {fileID: 2100000, guid: ec09771eb1650794e864d7a27fafd2a0, type: 2}
+  - plantIcon: {fileID: 21300000, guid: 343f00cc518f2c34090d54d64a12c62e, type: 3}
+    pantType: 9
+    pantMaterial: {fileID: 2100000, guid: 1e3b7cc95617a7e40ab683d4253e5c21, type: 2}

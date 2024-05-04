@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 662c333283d90dd47806629822e16061, type: 3}
+  m_Name: ButtonSkin
+  m_EditorClassIdentifier: 
+  listSkins:
+  - skinIcon: {fileID: 21300000, guid: 8f00f4e5c6662634d9d6fb1e2e2b01ce, type: 3}
+    skinRenderer: {fileID: 2100000, guid: f40227bfa0a27b349b8795829a8374b7, type: 2}
+  - skinIcon: {fileID: 21300000, guid: d0a3d62b4594a234382c7fdab51b181e, type: 3}
+    skinRenderer: {fileID: 0}
+  - skinIcon: {fileID: 0}
+    skinRenderer: {fileID: 0}
+  - skinIcon: {fileID: 0}
+    skinRenderer: {fileID: 0}

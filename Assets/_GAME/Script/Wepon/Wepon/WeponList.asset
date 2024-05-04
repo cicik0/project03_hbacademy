@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d635a096fae35a649bf8a70bb99df0cd, type: 3}
+  m_Name: WeponList
+  m_EditorClassIdentifier: 
+  listWepon:
+  - weponType: 1
+    coin: 10
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: 1c040a6e7d23e904b87e93fb9c66a037, type: 3}
+  - weponType: 2
+    coin: 20
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: 6083ff9012eefa348b00b8c543f1a742, type: 3}
+  - weponType: 3
+    coin: 30
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: cb6e597070ed41f4eb5cb9583c725959, type: 3}
+  - weponType: 4
+    coin: 40
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: 77de8014aff37804f92ab58c8817cced, type: 3}
+  - weponType: 5
+    coin: 50
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: 47c5647b1ac791e4f94e83afb9095d5b, type: 3}
+  - weponType: 6
+    coin: 60
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: f45aa9b66c9c81a4cac7e66fe618e58f, type: 3}
+  - weponType: 7
+    coin: 70
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: 37a28123e5e39f44fbff5daa106af161, type: 3}
+  - weponType: 8
+    coin: 80
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: 90389cac50942cb4ca38583e6531094a, type: 3}
+  - weponType: 9
+    coin: 90
+    throwSpeed: 6
+    weponPrefab: {fileID: 100000, guid: ecd6cb62ed8350e498f9e25d15d9caa3, type: 3}
+  - weponType: 10
+    coin: 100
+    throwSpeed: 6
+    weponPrefab: {fileID: -927199367670048503, guid: f6ba6acc744d0ff46af0b4623f8862f4, type: 3}
